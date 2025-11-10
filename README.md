@@ -1,7 +1,7 @@
 # 🚢 Titanic Survival Analysis & Prediction
 
 **Survival Prediction and Statistical Analysis of Titanic Dataset Using Machine Learning and Hypothesis Testing**  
-Exploratory Data Analysis (EDA), hypothesis testing, and logistic regression modeling on the classic [Titanic dataset]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/datasets/heptapod/titanic/data)).  
+Exploratory Data Analysis (EDA), hypothesis testing, and logistic regression modeling on the classic [Titanic dataset][https://www.kaggle.com/c/titanic](https://www.kaggle.com/datasets/heptapod/titanic/data).  
 This project combines statistical insight and data storytelling with machine learning to predict passenger survival and explain underlying factors.
 
 ---
