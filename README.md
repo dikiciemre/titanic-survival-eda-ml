@@ -16,7 +16,5 @@ In this project, we aim to:
 - Train a **Logistic Regression** model to predict passenger survival.
 - Present results visually and analytically in an **IEEE-style research paper**.
 
----
 
-## 🧱 Project Structure
 
